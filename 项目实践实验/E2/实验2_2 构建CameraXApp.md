@@ -4,7 +4,7 @@
 
 
 
-![2_1](image\2_1.jpg)
+![2_1](https://github.com/Luminousdio/ProgramPractice2024Spring/blob/main/%E9%A1%B9%E7%9B%AE%E5%AE%9E%E8%B7%B5%E5%AE%9E%E9%AA%8C/E2/image/2_1.jpg?raw=true.jpg)
 
 
 
@@ -396,16 +396,16 @@ activity_main.xml
 
 ## 运行结果
 
-![2_2](D:\Desktop\ProjectTest\E2\image\2_2.jpg)
+![2_2](https://github.com/Luminousdio/ProgramPractice2024Spring/blob/main/%E9%A1%B9%E7%9B%AE%E5%AE%9E%E8%B7%B5%E5%AE%9E%E9%AA%8C/E2/image/2_2.jpg?raw=true.jpg)
 
 
 
-![2_3](D:\Desktop\ProjectTest\E2\image\2_3.jpg)
+![2_3](https://github.com/Luminousdio/ProgramPractice2024Spring/blob/main/%E9%A1%B9%E7%9B%AE%E5%AE%9E%E8%B7%B5%E5%AE%9E%E9%AA%8C/E2/image/2_3.jpg?raw=true.jpg)
 
 
 
-![2_4](D:\Desktop\ProjectTest\E2\image\2_4.jpg)
+![2_4](https://github.com/Luminousdio/ProgramPractice2024Spring/blob/main/%E9%A1%B9%E7%9B%AE%E5%AE%9E%E8%B7%B5%E5%AE%9E%E9%AA%8C/E2/image/2_4.jpg?raw=true.jpg)
 
 
 
-![2_5](D:\Desktop\ProjectTest\E2\image\2_5.jpg)
+![2_5](https://github.com/Luminousdio/ProgramPractice2024Spring/blob/main/%E9%A1%B9%E7%9B%AE%E5%AE%9E%E8%B7%B5%E5%AE%9E%E9%AA%8C/E2/image/2_5.jpg?raw=true.jpg)
