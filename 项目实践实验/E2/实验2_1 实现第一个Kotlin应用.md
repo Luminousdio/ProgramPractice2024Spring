@@ -65,7 +65,7 @@ fragment_first.xml
 
 ```
 
-![1_1](.\image\1_1.jpg)
+![1_1](https://github.com/Luminousdio/ProgramPractice2024Spring/blob/main/%E9%A1%B9%E7%9B%AE%E5%AE%9E%E8%B7%B5%E5%AE%9E%E9%AA%8C/E2/image/1_1.jpg?raw=true.jpg)
 
 
 
@@ -135,7 +135,7 @@ fragment_second.xml
 </androidx.core.widget.NestedScrollView>
 ```
 
-![1_2](.\image\1_2.jpg)
+![1_2](https://github.com/Luminousdio/ProgramPractice2024Spring/blob/main/%E9%A1%B9%E7%9B%AE%E5%AE%9E%E8%B7%B5%E5%AE%9E%E9%AA%8C/E2/image/1_2.jpg?raw=true.jpg)
 
 
 
@@ -365,19 +365,19 @@ class MainActivity : AppCompatActivity() {
 
 主界面
 
-![1_3](D:\Desktop\ProjectTest\E2\image\1_3.jpg)
+![1_3](https://github.com/Luminousdio/ProgramPractice2024Spring/blob/main/%E9%A1%B9%E7%9B%AE%E5%AE%9E%E8%B7%B5%E5%AE%9E%E9%AA%8C/E2/image/1_3.jpg?raw=true.jpg)
 
 Toast
 
-![1_4](D:\Desktop\ProjectTest\E2\image\1_4.jpg)
+![1_4](https://github.com/Luminousdio/ProgramPractice2024Spring/blob/main/%E9%A1%B9%E7%9B%AE%E5%AE%9E%E8%B7%B5%E5%AE%9E%E9%AA%8C/E2/image/1_4.jpg?raw=true.jpg)
 
 Count
 
-![1_5](D:\Desktop\ProjectTest\E2\image\1_5.jpg)
+![1_5](https://github.com/Luminousdio/ProgramPractice2024Spring/blob/main/%E9%A1%B9%E7%9B%AE%E5%AE%9E%E8%B7%B5%E5%AE%9E%E9%AA%8C/E2/image/1_5.jpg?raw=true.jpg)
 
 Random
 
-![1_6](.\image\1_6.jpg)
+![1_6](https://github.com/Luminousdio/ProgramPractice2024Spring/blob/main/%E9%A1%B9%E7%9B%AE%E5%AE%9E%E8%B7%B5%E5%AE%9E%E9%AA%8C/E2/image/1_6.jpg?raw=true.jpg)
 
 
 
